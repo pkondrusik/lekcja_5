@@ -9,8 +9,7 @@ public class Autor {
         this.nazwisko=nazwisko;
     }
 
-    void przedstawSie()
-    {
+    void przedstawSie() {
         System.out.println("Autor: " + imie +" "+ nazwisko);
     }
 
